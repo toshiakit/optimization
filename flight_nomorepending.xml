@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<searchresult>
+  <searchinstance></searchinstance>
+  <searchid>67f_mVMp6YIJEM80C5$8</searchid>
+  <count>184</count>
+  <morepending></morepending>
+   <trips>
+             <trip>
+        <price url="/book/flight?code=6-LqrK8aKhVsy5_SH9FsfM.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.B6.16950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">170</price>
+        <legs>
+           <leg>
+            <airline>B6</airline>
+            <airline_display>JetBlue Airways</airline_display>
+            <orig>BOS</orig>
+            <dest>JFK</dest>
+            <depart>2008/03/17 19:40</depart>
+            <arrive>2008/03/17 21:00</arrive>
+            <stops>0</stops>
+            <duration_minutes>80</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>B6</airline>
+              <flight>1019</flight>
+              <duration_minutes>80</duration_minutes>
+              <equip>Airbus A320-100/200</equip>
+              <miles>-1</miles>
+              <dt>2008/03/17 19:40</dt>
+              <o>BOS</o>
+              <at>2008/03/17 21:00</at>
+              <d>JFK</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=5-LqrK8aKhVsy5_SH9FsfM.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.B6.16950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">170</price>
+        <legs>
+           <leg>
+            <airline>B6</airline>
+            <airline_display>JetBlue Airways</airline_display>
+            <orig>BOS</orig>
+            <dest>JFK</dest>
+            <depart>2008/03/17 18:35</depart>
+            <arrive>2008/03/17 20:00</arrive>
+            <stops>0</stops>
+            <duration_minutes>85</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>B6</airline>
+              <flight>1069</flight>
+              <duration_minutes>85</duration_minutes>
+              <equip>Embraer 190</equip>
+              <miles>-1</miles>
+              <dt>2008/03/17 18:35</dt>
+              <o>BOS</o>
+              <at>2008/03/17 20:00</at>
+              <d>JFK</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=2-LqrK8aKhVsy5_SH9FsfM.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.B6.16950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">170</price>
+        <legs>
+           <leg>
+            <airline>B6</airline>
+            <airline_display>JetBlue Airways</airline_display>
+            <orig>BOS</orig>
+            <dest>JFK</dest>
+            <depart>2008/03/17 09:45</depart>
+            <arrive>2008/03/17 10:59</arrive>
+            <stops>0</stops>
+            <duration_minutes>74</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>B6</airline>
+              <flight>1005</flight>
+              <duration_minutes>74</duration_minutes>
+              <equip>Embraer 190</equip>
+              <miles>-1</miles>
+              <dt>2008/03/17 09:45</dt>
+              <o>BOS</o>
+              <at>2008/03/17 10:59</at>
+              <d>JFK</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=3-LqrK8aKhVsy5_SH9FsfM.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.B6.16950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">170</price>
+        <legs>
+           <leg>
+            <airline>B6</airline>
+            <airline_display>JetBlue Airways</airline_display>
+            <orig>BOS</orig>
+            <dest>JFK</dest>
+            <depart>2008/03/17 11:50</depart>
+            <arrive>2008/03/17 13:00</arrive>
+            <stops>0</stops>
+            <duration_minutes>70</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>B6</airline>
+              <flight>915</flight>
+              <duration_minutes>70</duration_minutes>
+              <equip>Embraer 190</equip>
+              <miles>-1</miles>
+              <dt>2008/03/17 11:50</dt>
+              <o>BOS</o>
+              <at>2008/03/17 13:00</at>
+              <d>JFK</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=1-LqrK8aKhVsy5_SH9FsfM.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.B6.16950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">170</price>
+        <legs>
+           <leg>
+            <airline>B6</airline>
+            <airline_display>JetBlue Airways</airline_display>
+            <orig>BOS</orig>
+            <dest>JFK</dest>
+            <depart>2008/03/17 08:30</depart>
+            <arrive>2008/03/17 09:45</arrive>
+            <stops>0</stops>
+            <duration_minutes>75</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>B6</airline>
+              <flight>1003</flight>
+              <duration_minutes>75</duration_minutes>
+              <equip>Embraer 190</equip>
+              <miles>-1</miles>
+              <dt>2008/03/17 08:30</dt>
+              <o>BOS</o>
+              <at>2008/03/17 09:45</at>
+              <d>JFK</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+           </trips>
+</searchresult>

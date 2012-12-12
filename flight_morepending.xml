@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<searchresult>
+  <searchinstance></searchinstance>
+  <searchid>67f_mVMp6YIJEM80C5$8</searchid>
+  <count>15</count>
+  <morepending>true</morepending>
+   <trips>
+             <trip>
+        <price url="/book/flight?code=3-U7rqbvy5v_QiYSKD4Uiq.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.DL.33950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">340</price>
+        <legs>
+           <leg>
+            <airline>DL</airline>
+            <airline_display>Delta</airline_display>
+            <orig>BOS</orig>
+            <dest>LGA</dest>
+            <depart>2008/03/17 11:30</depart>
+            <arrive>2008/03/17 12:40</arrive>
+            <stops>0</stops>
+            <duration_minutes>70</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>DL</airline>
+              <flight>1917</flight>
+              <duration_minutes>70</duration_minutes>
+              <equip>M80</equip>
+              <miles>184</miles>
+              <dt>2008/03/17 11:30</dt>
+              <o>BOS</o>
+              <at>2008/03/17 12:40</at>
+              <d>LGA</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=1-U7rqbvy5v_QiYSKD4Uiq.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.DL.33950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">340</price>
+        <legs>
+           <leg>
+            <airline>DL</airline>
+            <airline_display>Delta</airline_display>
+            <orig>BOS</orig>
+            <dest>LGA</dest>
+            <depart>2008/03/17 13:30</depart>
+            <arrive>2008/03/17 14:38</arrive>
+            <stops>0</stops>
+            <duration_minutes>68</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>DL</airline>
+              <flight>1921</flight>
+              <duration_minutes>68</duration_minutes>
+              <equip>M80</equip>
+              <miles>184</miles>
+              <dt>2008/03/17 13:30</dt>
+              <o>BOS</o>
+              <at>2008/03/17 14:38</at>
+              <d>LGA</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=0-U7rqbvy5v_QiYSKD4Uiq.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.DL.33950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">340</price>
+        <legs>
+           <leg>
+            <airline>DL</airline>
+            <airline_display>Delta</airline_display>
+            <orig>BOS</orig>
+            <dest>LGA</dest>
+            <depart>2008/03/17 10:30</depart>
+            <arrive>2008/03/17 11:37</arrive>
+            <stops>0</stops>
+            <duration_minutes>67</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>DL</airline>
+              <flight>1915</flight>
+              <duration_minutes>67</duration_minutes>
+              <equip>M80</equip>
+              <miles>184</miles>
+              <dt>2008/03/17 10:30</dt>
+              <o>BOS</o>
+              <at>2008/03/17 11:37</at>
+              <d>LGA</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=2-U7rqbvy5v_QiYSKD4Uiq.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.DL.33950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">340</price>
+        <legs>
+           <leg>
+            <airline>DL</airline>
+            <airline_display>Delta</airline_display>
+            <orig>BOS</orig>
+            <dest>LGA</dest>
+            <depart>2008/03/17 12:30</depart>
+            <arrive>2008/03/17 13:39</arrive>
+            <stops>0</stops>
+            <duration_minutes>69</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>DL</airline>
+              <flight>1919</flight>
+              <duration_minutes>69</duration_minutes>
+              <equip>M80</equip>
+              <miles>184</miles>
+              <dt>2008/03/17 12:30</dt>
+              <o>BOS</o>
+              <at>2008/03/17 13:39</at>
+              <d>LGA</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+                   <trip>
+        <price url="/book/flight?code=4-U7rqbvy5v_QiYSKD4Uiq.67f_mVMp6YIJEM80C5$8.24-d63ZcwBYjqjaaOPcEqcs.F.DL.33950.0&amp;_sid_=24-d63ZcwBYjqjaaOPcEqcs" currency="USD">340</price>
+        <legs>
+           <leg>
+            <airline>DL</airline>
+            <airline_display>Delta</airline_display>
+            <orig>BOS</orig>
+            <dest>LGA</dest>
+            <depart>2008/03/17 14:30</depart>
+            <arrive>2008/03/17 15:40</arrive>
+            <stops>0</stops>
+            <duration_minutes>70</duration_minutes>
+            <cabin>Economy</cabin>
+            <segment>
+              <airline>DL</airline>
+              <flight>1923</flight>
+              <duration_minutes>70</duration_minutes>
+              <equip>M80</equip>
+              <miles>184</miles>
+              <dt>2008/03/17 14:30</dt>
+              <o>BOS</o>
+              <at>2008/03/17 15:40</at>
+              <d>LGA</d>
+              <cabin>Economy</cabin>
+            </segment>
+          </leg>
+         </legs>
+      </trip>
+           </trips>
+</searchresult>
